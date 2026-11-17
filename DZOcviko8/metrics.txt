@@ -1,0 +1,5 @@
+Size: 512x512
+Pixels: 262144
+cdf_min: 27
+Input: min=97, max=157, mean=124.052139, stddev=13.138142
+Equalized: min=0, max=255, mean=130.434349, stddev=73.582231

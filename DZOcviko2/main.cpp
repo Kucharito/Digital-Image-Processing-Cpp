@@ -7,11 +7,6 @@
 
 #include <opencv2/opencv.hpp>
 
-// Manual 2-D convolution according to
-// (f * h)(x, y) = sum_i sum_j f(x - i, y - j) * h(i, j).
-//
-// Pixels for which the kernel would reach outside the image are left zero.
-// Both the image and the kernel must contain one channel of 32-bit floats.
 cv::Mat convolution(const cv::Mat& input, const cv::Mat& kernel)
 {
     if (input.empty()) {
