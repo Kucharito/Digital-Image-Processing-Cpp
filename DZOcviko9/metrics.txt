@@ -1,0 +1,7 @@
+Max forward corner error [px]: 4.01943669423046e-14
+Max inverse corner error [px]: 2.6203521364587e-13
+Pasted pixels: 5825
+Corner 1: [0, 0] -> [69, 107]
+Corner 2: [323, 0] -> [227, 76]
+Corner 3: [323, 215] -> [228, 122]
+Corner 4: [0, 215] -> [66, 134]
